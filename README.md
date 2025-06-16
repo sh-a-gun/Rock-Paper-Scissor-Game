@@ -19,4 +19,29 @@ A fun and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 - CSS
 - JavaScript (Vanilla)
 
+## 📚 What I Learned
+
+- Creating interactive web pages using DOM manipulation  
+- Adding click event listeners in JavaScript  
+- Using `localStorage` to persist data across sessions  
+- Structuring HTML, CSS, and JS files for clean and scalable code  
+- Handling logic and conditions in JavaScript  
+- Debugging browser-based issues and improving UI
+
+
+## 🗂️ Folder Structure
+
+```
+Rock-Paper-Scissors-Game/
+├── index.html
+├── styles/
+│   └── rockf.css
+├── images/
+│   ├── rock-emoji.png
+│   ├── paper-emoji.png
+│   └── scissors-emoji.png
+├── scripts/
+│   └── script.js
+```
+
 
