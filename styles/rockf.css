@@ -82,6 +82,37 @@ body {
   transform: scale(1.05);
 }
 
+@media (max-width: 600px) {
+  .game-container {
+    width: 90%;
+    padding: 20px 15px;
+  }
+
+  .move-button {
+    width: 80px;
+    height: 80px;
+    margin: 8px;
+  }
+
+  .title {
+    font-size: 28px;
+  }
+
+  .result {
+    font-size: 22px;
+  }
+
+  .score {
+    font-size: 18px;
+  }
+
+  .reset-score-button,
+  .auto-play-button {
+    font-size: 14px;
+    padding: 8px 14px;
+  }
+}
+
 footer {
   text-align: center;
   padding: 1rem;
