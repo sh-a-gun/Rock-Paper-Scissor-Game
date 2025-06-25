@@ -2,6 +2,7 @@ body {
   margin: 0;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background: linear-gradient(to right, #ffe0f0, #ffd6ec);
@@ -10,6 +11,7 @@ body {
 }
 
 .game-container {
+  flex: 1;
   text-align: center;
   padding: 30px;
   background-color: #fff0f6;
@@ -78,4 +80,11 @@ body {
 .auto-play-button:hover {
   background-color: #ff69b4;
   transform: scale(1.05);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f5f5f5;
+  color: #555;
 }
