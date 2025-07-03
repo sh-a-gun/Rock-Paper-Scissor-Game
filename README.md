@@ -11,7 +11,7 @@ A fun and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
-[Play the Game Here](https://sh-a-gun.github.io/Rock-Paper-Scissors-Game/)
+[Play the Game Here](https://sh-a-gun.github.io/Rock-Paper-Scissor-Game/)
 
 ## 🛠️ Tech Stack
 
