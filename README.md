@@ -11,7 +11,7 @@ A fun and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
-[Play the Game Here](https://shagunn29.github.io/Rock-Paper-Scissors-Game/)
+[Play the Game Here](https://sh-a-gun.github.io/Rock-Paper-Scissors-Game/)
 
 ## 🛠️ Tech Stack
 
@@ -34,14 +34,13 @@ A fun and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**, an
 ```
 Rock-Paper-Scissors-Game/
 ├── index.html
-├── styles/
-│   └── rockf.css
+├── rockf.css
 ├── images/
 │   ├── rock-emoji.png
 │   ├── paper-emoji.png
 │   └── scissors-emoji.png
-├── scripts/
-│   └── script.js
+├── rockf.js
+
 ```
 
 
